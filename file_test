@@ -10,4 +10,6 @@ trying woth the jenkins remote trigger Token - copied to the webhook Secret fiel
 # for webhook testing, i change a file in the master branch.
 
 not yet triggered.
-will try to add a selected option in the jenkins project configuration, to polls also. 
+will try to add a selected option in the jenkins project configuration, to polls also. the commit is still in develop branch.
+
+trying do change now in the master branch. this is almost the closest i can get now.
