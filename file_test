@@ -6,3 +6,8 @@ After changing default branch in github to master, since webhook checks master b
 
 saw there were 3 delivery attempts of the webhook, that were timed out. so maybe it is something else.
 trying woth the jenkins remote trigger Token - copied to the webhook Secret field.
+
+# for webhook testing, i change a file in the master branch.
+
+not yet triggered.
+will try to add a selected option in the jenkins project configuration, to polls also. 
