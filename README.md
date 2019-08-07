@@ -78,3 +78,4 @@ Let the world know your project is using Cypress.io to test with this cool badge
 # removing the "trigger builds remotely" option with the token in the jekins cypress config page. 
 # + adding branch develop to build [[mistake. it is to build. not to listen to]]
 
+# correcting the mistake and deleting the branch to build to blank, for "any" branch. commiting change in master.
