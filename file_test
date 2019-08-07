@@ -2,4 +2,7 @@
 
 didnt work with a webhook to master branch, while commit was in develop branch.
 
-After changing default branch in github to master, since webhook checks master branch. still this file is in develop branch. 
+After changing default branch in github to master, since webhook checks master branch. still this file is in develop branch.
+
+saw there were 3 delivery attempts of the webhook, that were timed out. so maybe it is something else.
+trying woth the jenkins remote trigger Token - copied to the webhook Secret field.
