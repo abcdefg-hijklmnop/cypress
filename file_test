@@ -16,5 +16,8 @@ trying do change now in the master branch. this is almost the closest i can get 
 >>> couldnt move to branch master (404) !!
 
 trying to remove secret in webhook (pasted token from not working jenkins config for remote trigger).
+still commit in develop branch.
+
+didnt work.
 
 back to develop branch. tr
